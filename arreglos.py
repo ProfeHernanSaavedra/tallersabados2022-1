@@ -63,6 +63,10 @@ print("Promedio de elementos del arreglo B")
 suma = arregloB.mean()
 print("Promedio: ",suma)
 
+print("fin")
+
+
+
 
 
   
